@@ -14,8 +14,10 @@
 
 ## How To Run 
 ```
-1-In directory vagrant 
+1-Change directory to vagrant 
 2-Vagrant up then Vagrant ssh
+3-Go to Project folder 
+4-Run in vagrant directory by write command" python logAnalysis.py "
 ```
 
 ## View 
