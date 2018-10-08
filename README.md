@@ -9,7 +9,7 @@
 ## How To Install
 
 * Insrall .[Vagrant](https://www.vagrantup.com/) and .[VirtualBox](https://www.virtualbox.org/)
-* Dpwnload or clone from github .[fullstack-nandegree-vm repository](https://github.com/udacity/fullstack-nanodegree-vm)
+* Download or clone from github .[fullstack-nandegree-vm repository](https://github.com/udacity/fullstack-nanodegree-vm)
 * Now we got newsdata.sql in our vagrant directory and now we are good to go.How To Install
 
 ## How To Run 
