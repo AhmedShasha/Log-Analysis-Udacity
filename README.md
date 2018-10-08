@@ -22,7 +22,7 @@
 
 ## View 
 ```
-1-Create view Particles
-2-Create view P_authors
-3-Create view error
+1-Create view pep_articles
+2-Create view pep__authors
+3-Create view que_error
 ```
