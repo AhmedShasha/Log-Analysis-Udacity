@@ -17,7 +17,7 @@
 ```
 1-Change directory to vagrant
 2-Vagrant up command to run then vagrant ssh
-3-Go to Project file and run bu command " python logAnalysis.py "
+3-Go to Project file and run by command " python logAnalysis.py "
 ```
 
 ### Views 
