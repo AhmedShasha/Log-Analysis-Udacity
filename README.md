@@ -2,7 +2,7 @@
 ## Udacity-First-Project
 ### Tools 
 ```
-1-Python 3
+1-Python 
 2-VirtualMachine
 3-Vagrant 
 4-PostgreSQL
