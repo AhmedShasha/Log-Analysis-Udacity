@@ -1,3 +1,6 @@
+#!/usr/bin/Python 2.7.12
+
+
 import psycopg2
 
 
@@ -102,3 +105,4 @@ if __name__ == '__main__':
     q_error_result(q_error)
 
 f.close()   # ** CLOSE FILE *
+
