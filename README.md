@@ -22,8 +22,7 @@
 
 ### Views 
 ```
-###1-Create view pep_articles 
-"" create view pep_articles as
+1-Create view pep_articles "" create view pep_articles as
                       select articles.title, count(articles.title)
                       as number from articles
                       join log on log.path like concat('%', articles.slug, '%')
