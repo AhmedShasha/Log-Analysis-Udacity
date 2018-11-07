@@ -10,10 +10,10 @@
 ```
 ### Install
 
-1- Download and Install .[Vagrant](https://www.vagrantup.com/) and .[VirtualBox](https://www.virtualbox.org/)
-2- Download or clone from github .[fullstack-nandegree-vm repository](https://github.com/udacity/fullstack-nanodegree-vm)
-3- Download and Install .[PostgreSQL](https://www.postgresql.org/download/)
-4- Download database from here .[newsdata](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
+* Download and Install .[Vagrant](https://www.vagrantup.com/) and .[VirtualBox](https://www.virtualbox.org/)
+* Download or clone from github .[fullstack-nandegree-vm repository](https://github.com/udacity/fullstack-nanodegree-vm)
+* Download and Install .[PostgreSQL](https://www.postgresql.org/download/)
+* Download database from here .[newsdata](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)
 
 ### Run 
 ```
