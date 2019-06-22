@@ -9,7 +9,7 @@
 ```
 ### Install
 
-* Insrall .[Vagrant](https://www.vagrantup.com/) and .[VirtualBox](https://www.virtualbox.org/)
+* Install .[Vagrant](https://www.vagrantup.com/) and .[VirtualBox](https://www.virtualbox.org/)
 * Download or clone from github .[fullstack-nandegree-vm repository](https://github.com/udacity/fullstack-nanodegree-vm)
 * Download and Install .[PostgreSQL](https://www.postgresql.org/download/)
 
